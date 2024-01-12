@@ -221,7 +221,7 @@ section {
 .social-icons {
     position: absolute;
     margin-right: 150rem;
-    bottom: 7rem;
+    bottom: 4rem;
     width: 180px;
     display: flex;
     justify-content: space-between;
